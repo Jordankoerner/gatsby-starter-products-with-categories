@@ -5,8 +5,8 @@ const { spaceId, accessToken, snipcart } = process.env;
 
 module.exports = {
   siteMetadata: {
-    title: `OneShopper`,
-    description: `A starter for a e-commerce powered by Gatsby and Flotiq`,
+    title: `Carl's Shop`,
+    description: `A starter for e-commerce.`,
     author: `@flotiq`,
   },
   plugins: [{
